@@ -35,10 +35,8 @@ The report includes multiple interactive pages with slicers and filters:
    - Profit margin breakdown
    - Product category comparisons
 
-4. **Customer Analysis**
-   - Customer segmentation by region and purchase behavior
-   - Retention trends and lifetime value (LTV)
-5  **Recommendation**
+
+5. **Recommendation**
    - In the Past 3 Years the Higest Monthly Revenue Were Jan and it decreases by time we need to Increase our marketing Campaign in the rest of the Year
    - The online Store took Around 68% from the Total Revenue we need to Increase the In-store Revenue by Making offers for the in-stores only
    - We need to change our plan in the summer campaign because it always the Lowest Marketing Campaign
