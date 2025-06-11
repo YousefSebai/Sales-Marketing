@@ -21,14 +21,14 @@ The goal of this project is to visualize and analyze key sales and marketing dat
 The report includes multiple interactive pages with slicers and filters:
 
 1. **Sales Overview**
-   - Total Revenue, Profit, and Cost KPIs
-   - Monthly and yearly sales trends
-   - Regional performance analysis
+   - The Highest Month Revenue Were January and the lowest were December
+   - The Highest Year in Revenue were 2023 with 629.5k and the Lowest were 2024 with 405k
+   - The Highest Sales Region was Europe wiht 0.45M and South America were the lowest with 0.38M
 
 2. **Marketing Performance**
-   - Campaign ROI and conversion analysis
-   - Customer engagement metrics
-   - Marketing spend vs. sales impact
+   - The Highest Marketing Campaign Were Spring Promo 2024 and the lowest were Summer Deals
+   - The Revenue of the Online store with 67.14% from the total revenue where the In-store were the rest
+   - The Highest Lead Source were The Email were the Website Was the lowest One    
 
 3. **Product Insights**
    - Top-selling and underperforming products
@@ -38,15 +38,11 @@ The report includes multiple interactive pages with slicers and filters:
 4. **Customer Analysis**
    - Customer segmentation by region and purchase behavior
    - Retention trends and lifetime value (LTV)
+5  **Recommendation**
+   - In the Past 3 Years the Higest Monthly Revenue Were Jan and it decreases by time we need to Increase our marketing Campaign in the rest of the Year
+   - The online Store took Around 68% from the Total Revenue we need to Increase the In-store Revenue by Making offers for the in-stores only
+   - We need to change our plan in the summer campaign because it always the Lowest Marketing Campaign
 
-## 📊 Key Insights
-
-- Region **X** consistently achieved the highest sales over the past 12 months.
-- **Product Y** delivered the highest ROI despite having lower sales volume.
-- Campaign **Z** had the best conversion rate (15%) and contributed 22% of the quarterly revenue.
-- Overall profit increased by **12% YoY**, mainly driven by improved marketing targeting.
-
-> ✏️ *Replace X, Y, and Z with actual insights from your report.*
 
 ## 📂 How to Use
 
